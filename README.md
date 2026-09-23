@@ -30,9 +30,9 @@ Source Data
 This is particularly useful for an evaluator.
 
 ```
-├── notebooks/
-│   ├── 01.NB_UniversityChapters_DDL.ipynb
-│   ├── 02.NB_UniversityChapters_Orchestration
+├── DataEngineering_ArcGIS_UniversityChapters/src
+│   ├── NB_UniversityChapters_DDL.ipynb
+│   ├── NB_UniversityChapters_Orchestration
 │   ├── NB_UniversityChapters_Inbound_To_Bronze
 │   ├── NB_UniversityChapters_Bronze_To_Silver
 │ 	├──	NB_UniversityChapters_Silver_To_Gold
